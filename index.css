@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: #1C1C1C;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    padding: 60px 50px;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 800;
+    font-family: 'Karla', sans-serif;
+}
+
+p {
+    margin-top: -10px;
+}
+
+#wrapper {
+    background: #1F2937;
+    max-width: 550px;
+    padding: 80px 40px;
+    margin: 0 auto;
+}
+
+.green {
+    color: #4ADF86;
+}
+
+.btn {
+    background: #273549;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    color: #55F991;
+    margin: 12px 5px 12px 5px;
+}
+
+#generate-btn {
+    background: #10B981;
+    color: inherit;
+    margin-top: 30px;
+    
+}
+
+hr {
+    border: 1px solid #2F3E53;
+}
